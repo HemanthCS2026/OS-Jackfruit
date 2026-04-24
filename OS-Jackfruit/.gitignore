@@ -1,0 +1,8 @@
+*.log
+*.o
+*.ko
+*.mod*
+*.cmd
+engine
+modules.order
+Module.symvers
