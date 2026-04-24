@@ -263,27 +263,33 @@ This confirms everything shut down cleanly with no memory leaks.
 * Hard limit terminates container
 
 ---
-
 ## Screenshots
 
-(Add screenshots here)
-
-Example:
-
 ### Build Output
-
 ![Build](screenshots/build.png)
 
-### Container Running
+### Supervisor Running
+![Supervisor](screenshots/supervisor.png)
 
-![Run](screenshots/container_run.png)
+### Container Start
+![Start](screenshots/start_container.png)
 
-### Memory Limit Trigger
+### Container Status
+![PS](screenshots/ps_output.png)
 
+### Memory Limit Enforcement
 ![Memory](screenshots/memory_limit.png)
 
----
+### CPU Scheduling
+![CPU](screenshots/cpu_test.png)
 
+---
+---
+### github link
+ 
+https://github.com/HemanthCS2026/OS-Jackfruit.git
+
+---
 ## Conclusion
 
 This project demonstrates core concepts of containerization including process isolation, filesystem isolation, scheduling, and kernel-level monitoring using Linux system calls and kernel modules.
