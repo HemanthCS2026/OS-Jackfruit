@@ -1,0 +1,12 @@
+*.log
+*.o
+*.ko
+*.mod*
+*.cmd
+engine
+cpu_hog
+memory_hog
+io_pulse
+modules.order
+Module.symvers
+*.tar.gz
